@@ -18,7 +18,7 @@ Stock Visualizing and Forecasting using plotly and dash. This project creates ch
 ### ✅ Setup
 
 ```
-git clone https://github.com/YogeshUpdhyay/stockforecasting.git
+git clone https://github.com/Vomini/stockforecasting.git
 
 cd stockforecasting
 
